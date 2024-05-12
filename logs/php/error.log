@@ -1,0 +1,15 @@
+[09-May-2024 14:26:15 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/chamotmickael/Local Sites/planty1/app/public/wp-content/themes/planty1/header.php on line 36
+[09-May-2024 15:35:59 UTC] PHP Warning:  Undefined variable $logo in /Users/chamotmickael/Local Sites/planty1/app/public/wp-content/themes/planty1/header.php on line 39
+[09-May-2024 15:35:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/chamotmickael/Local Sites/planty1/app/public/wp-content/themes/planty1/header.php on line 39
+[09-May-2024 15:36:14 UTC] PHP Warning:  Undefined variable $logo in /Users/chamotmickael/Local Sites/planty1/app/public/wp-content/themes/planty1/header.php on line 37
+[09-May-2024 15:36:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/chamotmickael/Local Sites/planty1/app/public/wp-content/themes/planty1/header.php on line 37
+[09-May-2024 15:38:37 UTC] PHP Warning:  Undefined variable $logo in /Users/chamotmickael/Local Sites/planty1/app/public/wp-content/themes/planty1/header.php on line 37
+[09-May-2024 15:38:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/chamotmickael/Local Sites/planty1/app/public/wp-content/themes/planty1/header.php on line 37
+[09-May-2024 15:39:40 UTC] PHP Warning:  Undefined variable $logo in /Users/chamotmickael/Local Sites/planty1/app/public/wp-content/themes/planty1/header.php on line 37
+[09-May-2024 15:39:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/chamotmickael/Local Sites/planty1/app/public/wp-content/themes/planty1/header.php on line 37
+[09-May-2024 15:39:50 UTC] PHP Warning:  Undefined variable $logo in /Users/chamotmickael/Local Sites/planty1/app/public/wp-content/themes/planty1/header.php on line 37
+[09-May-2024 15:39:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /Users/chamotmickael/Local Sites/planty1/app/public/wp-content/themes/planty1/header.php on line 37
+[09-May-2024 15:44:00 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /Users/chamotmickael/Local Sites/planty1/app/public/wp-content/themes/planty1/header.php on line 49
+[09-May-2024 20:02:08 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /Users/chamotmickael/Local Sites/planty1/app/public/wp-content/themes/planty1/header.php on line 45
+[09-May-2024 20:02:13 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /Users/chamotmickael/Local Sites/planty1/app/public/wp-content/themes/planty1/header.php on line 45
+[09-May-2024 20:02:29 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /Users/chamotmickael/Local Sites/planty1/app/public/wp-content/themes/planty1/footer.php on line 15

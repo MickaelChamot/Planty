@@ -1,0 +1,2 @@
+2024/05/09 19:53:34 [alert] 775#0: *1724 setsockopt(TCP_NODELAY) failed (22: Invalid argument) while keepalive, client: 127.0.0.1, server: 127.0.0.1:10029
+2024/05/09 22:13:50 [alert] 775#0: *2862 setsockopt(TCP_NODELAY) failed (22: Invalid argument) while keepalive, client: 127.0.0.1, server: 127.0.0.1:10029
